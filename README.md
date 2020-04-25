@@ -1,1 +1,1 @@
-# Online Pong experiment using GGPO
+# Simple bootstrap project for experimenting with mirror library (https://github.com/Grouflon/mirror)
