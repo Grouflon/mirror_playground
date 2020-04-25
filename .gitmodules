@@ -1,0 +1,10 @@
+[submodule "extern/mirror"]
+	path = extern/mirror
+	url = https://github.com/Grouflon/mirror
+[submodule "extern/imgui"]
+	path = extern/imgui
+	url = https://github.com/ocornut/imgui
+	
+[submodule "extern/glfw"]
+	path = extern/glfw
+	url = https://github.com/glfw/glfw
